@@ -99,11 +99,22 @@ La navigation est gérée dans `MainActivity` avec `FragmentTransaction.replace(
 
 **Fragment 1 — état initial :**
 
-![Écran Fragment 1 initial](image7.png)
+<img width="266" height="515" alt="image" src="https://github.com/user-attachments/assets/57fad18d-8d46-42b8-bd5a-b779c5aa59ec" />
+
 
 **Fragment 1 — après clic sur "Dire bonjour" :**
 
-![Écran Fragment 1 après clic](image8.png)
+<img width="237" height="493" alt="image" src="https://github.com/user-attachments/assets/c5a4eb4b-161d-4f20-9e6d-8d7ff9fef037" />
+
+
+**Fragment 2 — état initial (Valeur : 0) :**
+
+<img width="274" height="507" alt="image" src="https://github.com/user-attachments/assets/a2de9a95-a758-44cf-a1a6-6637a602c981" />
+
+**Fragment 2 — après déplacement de la SeekBar (Valeur : 27) :**
+
+<img width="257" height="506" alt="image" src="https://github.com/user-attachments/assets/95ac8368-de3b-48e0-861a-bda255fb4755" />
+
 
 ---
 
