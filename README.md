@@ -50,7 +50,8 @@ Le layout principal contient un `LinearLayout` horizontal avec deux boutons et u
 
 La `MainActivity` gère la navigation entre les fragments via `getSupportFragmentManager()`. Au démarrage, **FragmentOne** est chargé par défaut.
 
-![MainActivity.java](image2.png)
+<img width="1920" height="1018" alt="image" src="https://github.com/user-attachments/assets/58e08ff9-066f-4d53-bb5f-8cff842055be" />
+
 
 ---
 
@@ -58,11 +59,14 @@ La `MainActivity` gère la navigation entre les fragments via `getSupportFragmen
 
 **Layout `fragment_one.xml` :** un `TextView` "Fragment One" et un bouton "Dire bonjour".
 
-![fragment_one.xml](image5.png)
+<img width="1920" height="1022" alt="image" src="https://github.com/user-attachments/assets/8d7a5771-3fdf-4eb1-8686-a08558eb8aed" />
+
+
 
 **Code `FragmentOne.java` :** au clic sur le bouton, le texte change pour "Bonjour depuis Fragment 1 !".
 
-![FragmentOne.java](image3.png)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/fa166ac7-f484-444b-9340-fcc7aee98772" />
+
 
 ---
 
@@ -70,11 +74,13 @@ La `MainActivity` gère la navigation entre les fragments via `getSupportFragmen
 
 **Layout `fragment_two.xml` :** un `TextView` "Valeur : 0" et une `SeekBar` avec `max="100"`.
 
-![fragment_two.xml](image6.png)
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/ee8efd9e-77a5-44c9-acd1-c04b7b86297d" />
+
 
 **Code `FragmentTwo.java` :** la SeekBar met à jour le TextView en temps réel, et la progression est sauvegardée avec `onSaveInstanceState`.
 
-![FragmentTwo.java](image4.png)
+<img width="1910" height="1021" alt="image" src="https://github.com/user-attachments/assets/a0a1441d-09bd-4ac8-9db6-1d737d5d7869" />
+
 
 ---
 
