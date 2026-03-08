@@ -3,7 +3,6 @@
 **Cours :** Programmation Mobile — Android avec Java  
 
 
-![Page du lab sur MLIAEdu](image9.png)
 
 ---
 
@@ -42,7 +41,8 @@ FragmentsLab/
 
 Le layout principal contient un `LinearLayout` horizontal avec deux boutons et un `FrameLayout` conteneur pour les fragments.
 
-![activity_main.xml](image1.png)
+<img width="1920" height="1016" alt="image" src="https://github.com/user-attachments/assets/8c310950-4b88-4b74-9c1e-a936bc362dcc" />
+
 
 ---
 
